@@ -18,6 +18,7 @@ public class Test {
 		System.out.println("测试git");
 		System.out.println("提交远程库成功");
 		System.out.println("提交远程库成功2");
+		System.out.println("github修改");
 
 	}
 	/**
